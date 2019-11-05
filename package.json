@@ -47,7 +47,7 @@
     "koa-helmet": "^4.0.0",
     "koa-jwt": "^3.5.1",
     "koa-router": "^7.4.0",
-    "mongoose": "^5.3.15",
+    "mongoose": "^5.7.5",
     "reflect-metadata": "^0.1.12",
     "simple-oauth2": "^2.2.1",
     "typegoose": "^5.4.1"
