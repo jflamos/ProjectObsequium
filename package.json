@@ -45,7 +45,7 @@
     "koa-bodyparser": "^4.2.1",
     "koa-bunyan-logger": "^2.1.0",
     "koa-helmet": "^4.0.0",
-    "koa-jwt": "^3.5.1",
+    "koa-jwt": "^4.0.4",
     "koa-router": "^7.4.0",
     "mongoose": "^5.3.15",
     "reflect-metadata": "^0.1.12",
